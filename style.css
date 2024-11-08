@@ -77,7 +77,7 @@ h1 {
     grid-template-columns: repeat(3, 1fr);
     /* gg20 格線間隔 */
     grid-gap: 20px;
-    width: 1200px;
+    width: 800px;
     margin: 0 auto;
 }
 
